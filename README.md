@@ -41,3 +41,6 @@ The example world was generated from a template that randomizes various shapes
 parameters. You can generate new ones from this directory as follows:
 
     erb actor_collisions.world.erb > actor_collisions.world
+   
+## reference
+https://blog.csdn.net/tanjia6999/article/details/102629735#comments_13170403
